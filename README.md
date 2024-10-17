@@ -1,6 +1,6 @@
 # Generalized-skip-connections-matter
 
-of diffusion models @ ICML 2024 "TERD: A Framework for Backdoor Defense on Diffusion Model" by Yichuan Mo, Hui Huang, Mingjie Li, Ang Li, [Yisen Wang](https://yisenwang.github.io/).  
+Generalized **S**kip **G**radient **M**atter (SGM) attack by [Yisen Wang](https://yisenwang.github.io/), Yichuan Mo, Dongxian Wu, Mingjie Li, Xingjun Ma, Zhouchen Lin.  
 
 This repository is under reconstruction.
 
