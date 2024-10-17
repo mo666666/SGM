@@ -1,6 +1,6 @@
 # Generalized-skip-connections-matter
 
-Generalized **S**kip **G**radient **M**ethod (SGM) attack by [Yisen Wang](https://yisenwang.github.io/), Yichuan Mo, [Dongxian Wu](https://github.com/csdongxian), Mingjie Li, Xingjun Ma, Zhouchen Lin. This work is the extensive version of the ICLR2020 paper: [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with Resnets](https://proceedings.neurips.cc/paper_files/paper/2020/file/1ef91c212e30e14bf125e9374262401f-Paper.pdf)
+Generalized **S**kip **G**radient **M**ethod (SGM) attack by [Yisen Wang](https://yisenwang.github.io/), Yichuan Mo, [Dongxian Wu](https://github.com/csdongxian), Mingjie Li, Xingjun Ma, Zhouchen Lin. This work is the extensive version of the ICLR2020 paper: [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with Resnets](https://arxiv.org/pdf/2002.05990)
 
 This repository is under reconstruction.
 
