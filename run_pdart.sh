@@ -1,0 +1,5 @@
+# PGD attack 生成与测试
+CUDA_VISIBLE_DEVICES=0 python attack_sgm.py --gamma 1.0 --output_dir adv_images_pdarts_gamma_10 --arch pdarts --batch-size 50
+CUDA_VISIBLE_DEVICES=0 python attack_sgm.py --gamma 0.6 --output_dir adv_images_pdarts_gamma_06 --arch pdarts --batch-size 50
+CUDA_VISIBLE_DEVICES=0 python evaluate_all.py --default --input_dir adv_images_pdarts_gamma_10
+CUDA_VISIBLE_DEVICES=0 python evaluate_all.py --default --input_dir adv_images_pdarts_gamma_06
