@@ -115,7 +115,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{wang2026adversarial,
-  title={On the Adversarial Transferability of Generalized" Skip Connections"},
+  title={On the Adversarial Transferability of Generalized “Skip Connections”},
   author={Wang, Yisen and Mo, Yichuan and Wu, Dongxian and Li, Mingjie and Ma, Xingjun and Lin, Zhouchen},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2026},
